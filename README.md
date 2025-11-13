@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Abubakr Ibrahim
 
-<!--
-**abubakryagob/abubakryagob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛰️ Astrophysicist | 🌌 Science Communicator
 
-Here are some ideas to get you started:
+Welcome to my corner of the universe!  
+I explore the cosmos through multi-wavelength data to study magnetars and translate that beauty into stories, code, and public science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 About Me
+
+- 🎓 **PhD in Astrophysics** — *Search for Transient Events and Pulsars in Multi-Frequency Data*  
+  (ICE-CSIC / UAB, Spain)
+- 🧠 Research interests: **radio transients, neutron stars, pulsars, magnetars, and cosmology**
+- 🧰 Experienced with **Python**, **CASA**, **LOFAR**, **ASKAP**, **VLA**, and custom pipelines for transient detection
+- 🚀 Leading the **ICTP-PWF Sudan initiative**, supporting students and researchers in astronomy during the ongoing conflict
+- 🎥 Managing **[Photon SCNSM](https://www.photoncentre.org/)** and Creator of **[Zool Astro](https://www.tiktok.com/@zoolastroofficial)** — a bilingual (Arabic-English) science channel simplifying astrophysics and cosmology
